@@ -1,0 +1,5 @@
+name: Nickname
+version: '${version}'
+main: io.github.vitelotte.nickname.Nickname
+api-version: 1.20
+load: STARTUP
